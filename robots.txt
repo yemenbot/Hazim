@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yemenbot.github.io/Hazim/sitemap.xml
